@@ -1,6 +1,7 @@
 # number-rolling
 just a small component to achieve the rolling function of numbers in web
-three ways to achieve number rolling function:
+
+3 ways to achieve number rolling function:
   1. use vue transition
   2. use css
   3. use javascript
